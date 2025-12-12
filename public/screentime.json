@@ -1,0 +1,7118 @@
+[
+  {
+    "date": "2025-09-02",
+    "app": "YouTube",
+    "minutes": 27,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Spotify",
+    "minutes": 38,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Instagram",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Facebook",
+    "minutes": 7,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Safari",
+    "minutes": 22,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Chrome",
+    "minutes": 8,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Gmail",
+    "minutes": 30,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Slack",
+    "minutes": 57,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Settings",
+    "minutes": 1,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-02",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "YouTube",
+    "minutes": 24,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Spotify",
+    "minutes": 33,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Instagram",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "TikTok",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Reddit",
+    "minutes": 11,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Safari",
+    "minutes": 23,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Gmail",
+    "minutes": 31,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Slack",
+    "minutes": 57,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Calendar",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Zoom",
+    "minutes": 11,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Strava",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-03",
+    "app": "Notes",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "YouTube",
+    "minutes": 20,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Spotify",
+    "minutes": 25,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Instagram",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "X",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Reddit",
+    "minutes": 10,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Safari",
+    "minutes": 19,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Gmail",
+    "minutes": 23,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Slack",
+    "minutes": 49,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Weather",
+    "minutes": 3,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-04",
+    "app": "Notes",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "YouTube",
+    "minutes": 18,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Spotify",
+    "minutes": 36,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Instagram",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "TikTok",
+    "minutes": 7,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "X",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Facebook",
+    "minutes": 6,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Reddit",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Safari",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Chrome",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Gmail",
+    "minutes": 24,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Slack",
+    "minutes": 50,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Camera",
+    "minutes": 1,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Weather",
+    "minutes": 3,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-05",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "YouTube",
+    "minutes": 36,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Netflix",
+    "minutes": 39,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Spotify",
+    "minutes": 56,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Instagram",
+    "minutes": 22,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "TikTok",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "X",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Reddit",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Safari",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Chrome",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Gmail",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Calendar",
+    "minutes": 3,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Zoom",
+    "minutes": 1,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Maps",
+    "minutes": 7,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Photos",
+    "minutes": 9,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Camera",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Health",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Strava",
+    "minutes": 8,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Weather",
+    "minutes": 3,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-06",
+    "app": "Notes",
+    "minutes": 3,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "YouTube",
+    "minutes": 56,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Netflix",
+    "minutes": 44,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Spotify",
+    "minutes": 58,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Instagram",
+    "minutes": 20,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "TikTok",
+    "minutes": 23,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "X",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Reddit",
+    "minutes": 20,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Safari",
+    "minutes": 18,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Chrome",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Gmail",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Maps",
+    "minutes": 7,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Uber",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Photos",
+    "minutes": 8,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Camera",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Health",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Strava",
+    "minutes": 7,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-07",
+    "app": "Notes",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "YouTube",
+    "minutes": 22,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Spotify",
+    "minutes": 33,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Reddit",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Safari",
+    "minutes": 26,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Gmail",
+    "minutes": 29,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Slack",
+    "minutes": 56,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Weather",
+    "minutes": 3,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-08",
+    "app": "Notes",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "YouTube",
+    "minutes": 21,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Spotify",
+    "minutes": 39,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "X",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Facebook",
+    "minutes": 6,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Safari",
+    "minutes": 23,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Gmail",
+    "minutes": 25,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Slack",
+    "minutes": 36,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Zoom",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Settings",
+    "minutes": 1,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-09",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "YouTube",
+    "minutes": 31,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Spotify",
+    "minutes": 44,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Instagram",
+    "minutes": 19,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "X",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Reddit",
+    "minutes": 16,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Safari",
+    "minutes": 24,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Chrome",
+    "minutes": 8,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Gmail",
+    "minutes": 34,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Slack",
+    "minutes": 47,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Health",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-10",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "YouTube",
+    "minutes": 25,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Spotify",
+    "minutes": 39,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Facebook",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Safari",
+    "minutes": 22,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Gmail",
+    "minutes": 28,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Slack",
+    "minutes": 47,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Zoom",
+    "minutes": 11,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-11",
+    "app": "Notes",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "YouTube",
+    "minutes": 24,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Spotify",
+    "minutes": 34,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Instagram",
+    "minutes": 23,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "X",
+    "minutes": 13,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Safari",
+    "minutes": 21,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Gmail",
+    "minutes": 24,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Slack",
+    "minutes": 54,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Zoom",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Photos",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-12",
+    "app": "Notes",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "YouTube",
+    "minutes": 37,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Netflix",
+    "minutes": 36,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Spotify",
+    "minutes": 44,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Instagram",
+    "minutes": 20,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "TikTok",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "X",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Safari",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Chrome",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Gmail",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Slack",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Maps",
+    "minutes": 12,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Photos",
+    "minutes": 7,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Camera",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Strava",
+    "minutes": 5,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-13",
+    "app": "Notes",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "YouTube",
+    "minutes": 67,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Netflix",
+    "minutes": 42,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Spotify",
+    "minutes": 48,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Instagram",
+    "minutes": 25,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "TikTok",
+    "minutes": 19,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "X",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Reddit",
+    "minutes": 18,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Safari",
+    "minutes": 16,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Chrome",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Gmail",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Slack",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Calendar",
+    "minutes": 3,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Maps",
+    "minutes": 7,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Lyft",
+    "minutes": 5,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Photos",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Camera",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Strava",
+    "minutes": 5,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-14",
+    "app": "Notes",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "YouTube",
+    "minutes": 27,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Spotify",
+    "minutes": 45,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Instagram",
+    "minutes": 19,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Safari",
+    "minutes": 23,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Gmail",
+    "minutes": 30,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Slack",
+    "minutes": 61,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Zoom",
+    "minutes": 11,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-15",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "YouTube",
+    "minutes": 19,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Spotify",
+    "minutes": 35,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Instagram",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "TikTok",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Facebook",
+    "minutes": 7,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Reddit",
+    "minutes": 12,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Safari",
+    "minutes": 19,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Gmail",
+    "minutes": 27,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Slack",
+    "minutes": 50,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Health",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Settings",
+    "minutes": 1,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-16",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "YouTube",
+    "minutes": 23,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Spotify",
+    "minutes": 38,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Instagram",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "X",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Facebook",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Reddit",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Safari",
+    "minutes": 22,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Gmail",
+    "minutes": 30,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Slack",
+    "minutes": 51,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Calendar",
+    "minutes": 13,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Zoom",
+    "minutes": 15,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Camera",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Health",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Strava",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-17",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "YouTube",
+    "minutes": 29,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Spotify",
+    "minutes": 32,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Instagram",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "TikTok",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Facebook",
+    "minutes": 7,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Reddit",
+    "minutes": 11,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Safari",
+    "minutes": 20,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Gmail",
+    "minutes": 34,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Slack",
+    "minutes": 83,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-18",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "YouTube",
+    "minutes": 22,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Spotify",
+    "minutes": 38,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Instagram",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "TikTok",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "X",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Reddit",
+    "minutes": 12,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Safari",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Gmail",
+    "minutes": 23,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Slack",
+    "minutes": 47,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Calendar",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Weather",
+    "minutes": 3,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-19",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "YouTube",
+    "minutes": 62,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Netflix",
+    "minutes": 71,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Spotify",
+    "minutes": 63,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Instagram",
+    "minutes": 25,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "TikTok",
+    "minutes": 20,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "X",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Facebook",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Reddit",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Safari",
+    "minutes": 19,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Gmail",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Slack",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Calendar",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Maps",
+    "minutes": 8,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Photos",
+    "minutes": 9,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Camera",
+    "minutes": 8,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Strava",
+    "minutes": 8,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-20",
+    "app": "Notes",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "YouTube",
+    "minutes": 43,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Netflix",
+    "minutes": 38,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Spotify",
+    "minutes": 44,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Instagram",
+    "minutes": 27,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "TikTok",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "X",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Facebook",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Safari",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Chrome",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Gmail",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Calendar",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Zoom",
+    "minutes": 2,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Maps",
+    "minutes": 9,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Uber",
+    "minutes": 5,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Lyft",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Photos",
+    "minutes": 9,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Camera",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Health",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Strava",
+    "minutes": 7,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-21",
+    "app": "Notes",
+    "minutes": 3,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "YouTube",
+    "minutes": 30,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Netflix",
+    "minutes": 6,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Spotify",
+    "minutes": 36,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Instagram",
+    "minutes": 22,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "TikTok",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "X",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Facebook",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Reddit",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Safari",
+    "minutes": 26,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Chrome",
+    "minutes": 8,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Gmail",
+    "minutes": 34,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Slack",
+    "minutes": 51,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-22",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "YouTube",
+    "minutes": 20,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Spotify",
+    "minutes": 39,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "X",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Reddit",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Safari",
+    "minutes": 20,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Gmail",
+    "minutes": 26,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Slack",
+    "minutes": 44,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Calendar",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Zoom",
+    "minutes": 11,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Photos",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Strava",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-23",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "YouTube",
+    "minutes": 21,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Spotify",
+    "minutes": 39,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Instagram",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "X",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Reddit",
+    "minutes": 16,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Safari",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Chrome",
+    "minutes": 8,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Gmail",
+    "minutes": 25,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Slack",
+    "minutes": 48,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Zoom",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-24",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "YouTube",
+    "minutes": 17,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Spotify",
+    "minutes": 31,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Facebook",
+    "minutes": 7,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Reddit",
+    "minutes": 11,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Safari",
+    "minutes": 22,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Gmail",
+    "minutes": 24,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Slack",
+    "minutes": 68,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Zoom",
+    "minutes": 11,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Weather",
+    "minutes": 3,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-25",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "YouTube",
+    "minutes": 23,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Netflix",
+    "minutes": 3,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Spotify",
+    "minutes": 33,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Instagram",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "X",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Reddit",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Safari",
+    "minutes": 25,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Gmail",
+    "minutes": 22,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Slack",
+    "minutes": 54,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-26",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "YouTube",
+    "minutes": 46,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Netflix",
+    "minutes": 34,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Spotify",
+    "minutes": 55,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Instagram",
+    "minutes": 28,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "TikTok",
+    "minutes": 20,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "X",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Facebook",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Safari",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Chrome",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Gmail",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Slack",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Zoom",
+    "minutes": 2,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Maps",
+    "minutes": 18,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Uber",
+    "minutes": 6,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Photos",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Camera",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Strava",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-27",
+    "app": "Notes",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "YouTube",
+    "minutes": 42,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Netflix",
+    "minutes": 37,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Spotify",
+    "minutes": 64,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Instagram",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "TikTok",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "X",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Reddit",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Safari",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Chrome",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Gmail",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Maps",
+    "minutes": 17,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Uber",
+    "minutes": 9,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Lyft",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Photos",
+    "minutes": 7,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Camera",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Health",
+    "minutes": 5,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Strava",
+    "minutes": 10,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-28",
+    "app": "Notes",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "YouTube",
+    "minutes": 22,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Spotify",
+    "minutes": 39,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "TikTok",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Facebook",
+    "minutes": 7,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Reddit",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Safari",
+    "minutes": 21,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Gmail",
+    "minutes": 33,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Slack",
+    "minutes": 59,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Zoom",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Camera",
+    "minutes": 1,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Strava",
+    "minutes": 1,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-29",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "YouTube",
+    "minutes": 27,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Spotify",
+    "minutes": 34,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "X",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Facebook",
+    "minutes": 6,
+    "category": "Social"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Safari",
+    "minutes": 21,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Gmail",
+    "minutes": 21,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Slack",
+    "minutes": 59,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-09-30",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "YouTube",
+    "minutes": 23,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Spotify",
+    "minutes": 42,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Instagram",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "X",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Safari",
+    "minutes": 21,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Chrome",
+    "minutes": 8,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Gmail",
+    "minutes": 27,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Slack",
+    "minutes": 56,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Calendar",
+    "minutes": 11,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Photos",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-01",
+    "app": "Notes",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "YouTube",
+    "minutes": 20,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Spotify",
+    "minutes": 35,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Instagram",
+    "minutes": 19,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "TikTok",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "X",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Reddit",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Safari",
+    "minutes": 23,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Gmail",
+    "minutes": 23,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Slack",
+    "minutes": 50,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Health",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-02",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "YouTube",
+    "minutes": 21,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Spotify",
+    "minutes": 36,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Instagram",
+    "minutes": 20,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "X",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Facebook",
+    "minutes": 7,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Safari",
+    "minutes": 20,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Gmail",
+    "minutes": 22,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Slack",
+    "minutes": 51,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Strava",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-03",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "YouTube",
+    "minutes": 45,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Netflix",
+    "minutes": 47,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Spotify",
+    "minutes": 61,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Instagram",
+    "minutes": 26,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "TikTok",
+    "minutes": 19,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "X",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Facebook",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Safari",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Chrome",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Gmail",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Slack",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Calendar",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Zoom",
+    "minutes": 2,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Maps",
+    "minutes": 8,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Uber",
+    "minutes": 5,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Photos",
+    "minutes": 8,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Camera",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Health",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Strava",
+    "minutes": 9,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-04",
+    "app": "Notes",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "YouTube",
+    "minutes": 84,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Netflix",
+    "minutes": 45,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Spotify",
+    "minutes": 68,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Instagram",
+    "minutes": 27,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "TikTok",
+    "minutes": 21,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "X",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Facebook",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Reddit",
+    "minutes": 16,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Safari",
+    "minutes": 18,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Chrome",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Gmail",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Calendar",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Maps",
+    "minutes": 15,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Uber",
+    "minutes": 7,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Photos",
+    "minutes": 8,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Camera",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Health",
+    "minutes": 5,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Strava",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-05",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "YouTube",
+    "minutes": 27,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Spotify",
+    "minutes": 37,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Instagram",
+    "minutes": 21,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "TikTok",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "X",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Safari",
+    "minutes": 24,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Gmail",
+    "minutes": 32,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Slack",
+    "minutes": 53,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Calendar",
+    "minutes": 12,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Maps",
+    "minutes": 5,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Photos",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Weather",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-06",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "YouTube",
+    "minutes": 21,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Spotify",
+    "minutes": 36,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Instagram",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "X",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Safari",
+    "minutes": 23,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Chrome",
+    "minutes": 8,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Gmail",
+    "minutes": 29,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Slack",
+    "minutes": 68,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Photos",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Health",
+    "minutes": 5,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Strava",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-07",
+    "app": "Notes",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "YouTube",
+    "minutes": 24,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Spotify",
+    "minutes": 36,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Instagram",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "X",
+    "minutes": 13,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Facebook",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Reddit",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Safari",
+    "minutes": 27,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Gmail",
+    "minutes": 30,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Slack",
+    "minutes": 60,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Zoom",
+    "minutes": 14,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Maps",
+    "minutes": 5,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-08",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "YouTube",
+    "minutes": 28,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Spotify",
+    "minutes": 33,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Instagram",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "TikTok",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "X",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Reddit",
+    "minutes": 18,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Safari",
+    "minutes": 25,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Gmail",
+    "minutes": 36,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Slack",
+    "minutes": 75,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Calendar",
+    "minutes": 13,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Photos",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-09",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "YouTube",
+    "minutes": 21,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Spotify",
+    "minutes": 33,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Instagram",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "X",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Facebook",
+    "minutes": 6,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Reddit",
+    "minutes": 12,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Safari",
+    "minutes": 27,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Gmail",
+    "minutes": 25,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Slack",
+    "minutes": 39,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Photos",
+    "minutes": 3,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Weather",
+    "minutes": 3,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-10",
+    "app": "Notes",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "YouTube",
+    "minutes": 54,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Netflix",
+    "minutes": 51,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Spotify",
+    "minutes": 53,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Instagram",
+    "minutes": 28,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "TikTok",
+    "minutes": 21,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "X",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Facebook",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Reddit",
+    "minutes": 19,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Safari",
+    "minutes": 23,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Gmail",
+    "minutes": 13,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Calendar",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Maps",
+    "minutes": 8,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Lyft",
+    "minutes": 6,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Photos",
+    "minutes": 9,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Camera",
+    "minutes": 7,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Strava",
+    "minutes": 7,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Weather",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-11",
+    "app": "Notes",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "YouTube",
+    "minutes": 46,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Netflix",
+    "minutes": 70,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Spotify",
+    "minutes": 51,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Instagram",
+    "minutes": 26,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "TikTok",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "X",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Facebook",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Reddit",
+    "minutes": 18,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Safari",
+    "minutes": 18,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Chrome",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Gmail",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Slack",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Zoom",
+    "minutes": 1,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Maps",
+    "minutes": 11,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Uber",
+    "minutes": 5,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Lyft",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Photos",
+    "minutes": 7,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Camera",
+    "minutes": 6,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Strava",
+    "minutes": 5,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-12",
+    "app": "Notes",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "YouTube",
+    "minutes": 29,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Spotify",
+    "minutes": 31,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Instagram",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "X",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Reddit",
+    "minutes": 16,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Safari",
+    "minutes": 24,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Gmail",
+    "minutes": 28,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Slack",
+    "minutes": 51,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-13",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "YouTube",
+    "minutes": 19,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Spotify",
+    "minutes": 40,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Instagram",
+    "minutes": 17,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "X",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Safari",
+    "minutes": 24,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Gmail",
+    "minutes": 24,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Slack",
+    "minutes": 59,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-14",
+    "app": "Notes",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "YouTube",
+    "minutes": 17,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Spotify",
+    "minutes": 29,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Instagram",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Reddit",
+    "minutes": 12,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Safari",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Gmail",
+    "minutes": 21,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Slack",
+    "minutes": 43,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-15",
+    "app": "Notes",
+    "minutes": 6,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "YouTube",
+    "minutes": 27,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Netflix",
+    "minutes": 4,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Spotify",
+    "minutes": 40,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Instagram",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "TikTok",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "X",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Safari",
+    "minutes": 23,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Gmail",
+    "minutes": 30,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Slack",
+    "minutes": 51,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Calendar",
+    "minutes": 11,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Health",
+    "minutes": 5,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Strava",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-16",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "YouTube",
+    "minutes": 20,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Netflix",
+    "minutes": 6,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Spotify",
+    "minutes": 44,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Instagram",
+    "minutes": 19,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "X",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Reddit",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Safari",
+    "minutes": 25,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Chrome",
+    "minutes": 8,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Gmail",
+    "minutes": 31,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Slack",
+    "minutes": 51,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Weather",
+    "minutes": 3,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-17",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "YouTube",
+    "minutes": 43,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Netflix",
+    "minutes": 51,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Spotify",
+    "minutes": 62,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Instagram",
+    "minutes": 27,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "TikTok",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "X",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Facebook",
+    "minutes": 12,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Safari",
+    "minutes": 16,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Chrome",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Gmail",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Slack",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Calendar",
+    "minutes": 3,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Zoom",
+    "minutes": 2,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Maps",
+    "minutes": 8,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Uber",
+    "minutes": 5,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Photos",
+    "minutes": 7,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Camera",
+    "minutes": 7,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Strava",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-18",
+    "app": "Notes",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "YouTube",
+    "minutes": 51,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Netflix",
+    "minutes": 39,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Spotify",
+    "minutes": 54,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Instagram",
+    "minutes": 19,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "TikTok",
+    "minutes": 20,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "X",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Facebook",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Safari",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Chrome",
+    "minutes": 6,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Gmail",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Maps",
+    "minutes": 19,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Uber",
+    "minutes": 6,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Lyft",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Photos",
+    "minutes": 8,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Camera",
+    "minutes": 7,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Strava",
+    "minutes": 6,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-19",
+    "app": "Notes",
+    "minutes": 5,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "YouTube",
+    "minutes": 25,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Netflix",
+    "minutes": 3,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Spotify",
+    "minutes": 42,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "TikTok",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "X",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Reddit",
+    "minutes": 15,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Safari",
+    "minutes": 20,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Gmail",
+    "minutes": 26,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Slack",
+    "minutes": 51,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Calendar",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Uber",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Settings",
+    "minutes": 1,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-20",
+    "app": "Notes",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "YouTube",
+    "minutes": 22,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Spotify",
+    "minutes": 42,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Instagram",
+    "minutes": 21,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "X",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Reddit",
+    "minutes": 13,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Safari",
+    "minutes": 21,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Gmail",
+    "minutes": 34,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Slack",
+    "minutes": 44,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Calendar",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-21",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "YouTube",
+    "minutes": 27,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Spotify",
+    "minutes": 46,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Instagram",
+    "minutes": 22,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "X",
+    "minutes": 13,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Reddit",
+    "minutes": 14,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Safari",
+    "minutes": 24,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Chrome",
+    "minutes": 9,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Gmail",
+    "minutes": 24,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Slack",
+    "minutes": 59,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Zoom",
+    "minutes": 11,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Lyft",
+    "minutes": 1,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-22",
+    "app": "Notes",
+    "minutes": 8,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "YouTube",
+    "minutes": 24,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Spotify",
+    "minutes": 35,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Instagram",
+    "minutes": 16,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "TikTok",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "X",
+    "minutes": 14,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Facebook",
+    "minutes": 8,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Reddit",
+    "minutes": 12,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Safari",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Chrome",
+    "minutes": 7,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Gmail",
+    "minutes": 36,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Slack",
+    "minutes": 48,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Zoom",
+    "minutes": 13,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Maps",
+    "minutes": 3,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Photos",
+    "minutes": 4,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Health",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Strava",
+    "minutes": 2,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-23",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "YouTube",
+    "minutes": 30,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Netflix",
+    "minutes": 5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Spotify",
+    "minutes": 42,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Instagram",
+    "minutes": 22,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "TikTok",
+    "minutes": 11,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "X",
+    "minutes": 15,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Facebook",
+    "minutes": 9,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Reddit",
+    "minutes": 20,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Safari",
+    "minutes": 25,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Chrome",
+    "minutes": 10,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Gmail",
+    "minutes": 33,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Slack",
+    "minutes": 62,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Calendar",
+    "minutes": 10,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Zoom",
+    "minutes": 14,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Maps",
+    "minutes": 4,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Photos",
+    "minutes": 5,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Camera",
+    "minutes": 2,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Health",
+    "minutes": 4,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Strava",
+    "minutes": 3,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Settings",
+    "minutes": 2,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Weather",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-24",
+    "app": "Notes",
+    "minutes": 7,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "YouTube",
+    "minutes": 64,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Netflix",
+    "minutes": 43,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Spotify",
+    "minutes": 72,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Instagram",
+    "minutes": 23,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "TikTok",
+    "minutes": 18,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "X",
+    "minutes": 13,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Facebook",
+    "minutes": 10,
+    "category": "Social"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Reddit",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Safari",
+    "minutes": 17,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Chrome",
+    "minutes": 4,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Gmail",
+    "minutes": 9,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Zoom",
+    "minutes": 2,
+    "category": "Productivity & Finance"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Maps",
+    "minutes": 7,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Uber",
+    "minutes": 6,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Lyft",
+    "minutes": 5,
+    "category": "Travel"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Photos",
+    "minutes": 11,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Camera",
+    "minutes": 7,
+    "category": "Creativity"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Health",
+    "minutes": 8,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Strava",
+    "minutes": 11,
+    "category": "Health & Fitness"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Settings",
+    "minutes": 3,
+    "category": "Utilities"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Weather",
+    "minutes": 5,
+    "category": "Information & Reading"
+  },
+  {
+    "date": "2025-10-25",
+    "app": "Notes",
+    "minutes": 4,
+    "category": "Productivity & Finance"
+  }
+]

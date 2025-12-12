@@ -1,0 +1,90 @@
+SCREEN RECORDING SCRIPT - Altu Life Health Dashboard
+Duration: 7-10 minutes
+
+---
+[00:00-01:00] INTRODUCTION & TECH STACK
+---
+
+Hi, I'm [Your Name], and I'm excited to show you Altu Life, a health dashboard application I built for this assignment.
+
+Let me start by explaining my approach and tech stack. I chose to build this as a purely client-side React application using Create React App. The app loads health and screen time data directly from JSON files - no backend server required, which makes it simple to run and deploy.
+
+For the tech stack, I used React 18 for the UI, Recharts for data visualization, and OpenAI's GPT-4o-mini API for the AI-powered Q&A feature. Everything runs in the browser, with all data processing happening in-memory. This approach keeps the architecture simple while still delivering a powerful, interactive experience.
+
+---
+[01:00-04:00] PRODUCT OVERVIEW & DEMO
+---
+
+Now let me give you a tour of what I built. [Switch to browser/demo - start on Dashboard]
+
+The dashboard has several key sections. At the top, you'll see summary cards showing average steps, sleep, energy, and workout days. Below that is the Wellness Score - a composite score from 0 to 100 that combines steps, sleep, exercise, and screen time. It shows a breakdown of each component and compares your weekly performance to the 90-day average.
+
+Next is the Habit Streaks section. You can click to expand it - [click to expand] and see your current and best streaks for workouts, sleep, and steps. This gamification element helps users stay motivated.
+
+Then we have the charts section. There's a day range filter at the top - you can view data for the last 7, 30, or 90 days. [Change day range to show it works] The charts include steps over time, steps versus exercise, sleep versus exercise, daily screen time, and top apps by usage. Each chart is clickable - [click on a chart] you can expand it to full screen for better viewing. And notice these small icon buttons in the bottom right corner of each chart - [point to icon] those let you ask AI questions specific to that chart. Let me click on one - [click icon on a chart] and ask "What's the trend in my steps?" [type question and show response]
+
+There's also a custom chart builder. Let me show you an example - [click on custom chart builder to expand] if I select "Steps" as the first metric, notice how the second dropdown only shows related options like Workout, Sleep, Energy, and Screen Time. This prevents nonsensical comparisons. Now let me select "Sleep" as the second metric - [select sleep] and you can see it generates a dual-axis line chart comparing steps and sleep over the selected time period. This helps users discover relationships between different health metrics.
+
+Now let's look at the Ask Altu page - [switch to Ask Altu page] where you can ask natural language questions about your health data. For example, you could ask "What's my most used app?" - [type and submit] and you can see it gives you the exact answer directly from the data. Or let me try "How does my sleep compare on days when I exercise versus days when I don't?" - [type and submit] The system pre-computes exact answers for specific queries before sending to the AI, ensuring accuracy. You can also try questions like "What's my least used app?" or "Show me trends in my step count" - [show example questions] and the AI will provide detailed insights.
+
+And don't forget the notification system in the top right of the dashboard - [switch back to dashboard, click notification icon] it shows alerts based on your actual data, like streak achievements or warnings about low step counts. [Show a few notifications]
+
+---
+[04:00-05:30] ARCHITECTURE & DATA MODELING
+---
+
+Let me explain the architecture and how the data flows. [Switch to code view if helpful]
+
+The app is structured as a single-page React application. Data is loaded from two JSON files in the public folder - health_daily.json contains 90 days of health data with fields like steps, sleep, workout minutes, and energy. screentime.json contains screen time data with app names, categories, and usage minutes.
+
+The data.js utility file handles loading this data and computing all the metrics. It calculates averages, wellness scores, streaks, and prepares the data for visualization. Everything happens synchronously when the component mounts - there's no API calls, no database, just pure JavaScript processing.
+
+The wellness score is calculated as a weighted average: steps contribute 30%, sleep 30%, exercise 25%, and screen time 15% - with screen time being inverse since less is better. Streaks are calculated by iterating through the data chronologically, tracking consecutive days that meet certain thresholds.
+
+For the LLM integration, I made an interesting choice. Instead of just sending raw data to the AI, I pre-compute exact answers for specific types of questions. For example, if someone asks "what's my most used app?", the code calculates this directly from all the data before sending anything to OpenAI. This ensures accuracy and reduces API costs.
+
+---
+[05:30-08:00] DEEP DIVE: KEY IMPLEMENTATION CHOICES
+---
+
+I want to highlight two implementation choices I'm particularly proud of.
+
+First is the pre-computation system for LLM queries. In the llm.js file, I created functions that detect specific question patterns and compute exact answers before the AI even sees the data. For "most used app" questions, it aggregates all apps across all days. For weekday versus weekend questions, it splits the data accordingly. For trend questions, it calculates actual percentage changes. This means the AI receives both the raw data AND the exact answer, with instructions to use the exact answer when available. This dramatically improves accuracy - the AI can't guess or approximate when we have the real answer.
+
+Second is the smart filtering in the custom chart builder. I defined a relationship matrix that maps which metrics make sense to compare. Steps can be compared with workout, sleep, energy, or screen time because there are meaningful relationships there. But I prevent nonsensical comparisons. When you select the first metric, the second dropdown only shows related options. This is a small UX detail, but it prevents user confusion and ensures every chart tells a meaningful story.
+
+Both of these features required thinking about the user experience and data accuracy upfront, rather than just building features that work.
+
+---
+[08:00-09:30] REFLECTIONS & NEXT STEPS
+---
+
+Let me reflect on limitations and what I would do next.
+
+The biggest limitation is that this is a static application - it only works with the provided JSON files. In a real product, I'd need user authentication, data persistence, and the ability to upload or sync new data. The current implementation is perfect for a demo, but would need significant backend infrastructure for production.
+
+Another limitation is that the notification system, while functional, is relatively simple. With more time, I'd make it more intelligent - learning from user patterns, providing personalized recommendations, and allowing users to set custom goals.
+
+If I had more time, I'd also add:
+- Data export functionality so users can download their data
+- More sophisticated analytics like correlation analysis between metrics
+- Trend predictions using time series analysis
+- The ability to set custom goals and track progress
+- A mobile-responsive design that works better on smaller screens
+- Integration with actual health APIs like Apple HealthKit or Google Fit
+
+But overall, I'm happy with what I built. It's a clean, functional application that demonstrates both technical skills and product thinking. The combination of data visualization, AI integration, and thoughtful UX details creates something that's both useful and engaging.
+
+Thank you for watching!
+
+---
+END OF SCRIPT
+---
+
+Tips for recording:
+- Speak naturally, don't rush
+- Pause briefly between sections
+- Show the actual app working, not just code
+- Use screen annotations if helpful
+- Keep it conversational, like you're explaining to a colleague
+

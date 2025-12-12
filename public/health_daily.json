@@ -1,0 +1,380 @@
+[
+  {
+    "date": "2025-09-02",
+    "steps": 8294,
+    "sleep_minutes": 410,
+    "active_energy_kcal": 834,
+    "workout_minutes": 31
+  },
+  {
+    "date": "2025-09-03",
+    "steps": 10732,
+    "sleep_minutes": 423,
+    "active_energy_kcal": 1024,
+    "workout_minutes": 47
+  },
+  {
+    "date": "2025-09-04",
+    "steps": 9511,
+    "sleep_minutes": 419,
+    "active_energy_kcal": 567,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-05",
+    "steps": 9406,
+    "sleep_minutes": 429,
+    "active_energy_kcal": 545,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-06",
+    "steps": 7417,
+    "sleep_minutes": 494,
+    "active_energy_kcal": 948,
+    "workout_minutes": 55
+  },
+  {
+    "date": "2025-09-07",
+    "steps": 4869,
+    "sleep_minutes": 496,
+    "active_energy_kcal": 800,
+    "workout_minutes": 59
+  },
+  {
+    "date": "2025-09-08",
+    "steps": 2245,
+    "sleep_minutes": 455,
+    "active_energy_kcal": 277,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-09",
+    "steps": 9875,
+    "sleep_minutes": 427,
+    "active_energy_kcal": 655,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-10",
+    "steps": 8915,
+    "sleep_minutes": 394,
+    "active_energy_kcal": 1029,
+    "workout_minutes": 47
+  },
+  {
+    "date": "2025-09-11",
+    "steps": 7370,
+    "sleep_minutes": 416,
+    "active_energy_kcal": 385,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-12",
+    "steps": 7522,
+    "sleep_minutes": 430,
+    "active_energy_kcal": 457,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-13",
+    "steps": 9904,
+    "sleep_minutes": 445,
+    "active_energy_kcal": 619,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-14",
+    "steps": 10933,
+    "sleep_minutes": 455,
+    "active_energy_kcal": 749,
+    "workout_minutes": 26
+  },
+  {
+    "date": "2025-09-15",
+    "steps": 9325,
+    "sleep_minutes": 409,
+    "active_energy_kcal": 574,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-16",
+    "steps": 7687,
+    "sleep_minutes": 431,
+    "active_energy_kcal": 455,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-17",
+    "steps": 8893,
+    "sleep_minutes": 416,
+    "active_energy_kcal": 928,
+    "workout_minutes": 45
+  },
+  {
+    "date": "2025-09-18",
+    "steps": 6597,
+    "sleep_minutes": 441,
+    "active_energy_kcal": 450,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-19",
+    "steps": 11002,
+    "sleep_minutes": 404,
+    "active_energy_kcal": 678,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-20",
+    "steps": 8783,
+    "sleep_minutes": 444,
+    "active_energy_kcal": 623,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-21",
+    "steps": 9904,
+    "sleep_minutes": 448,
+    "active_energy_kcal": 1080,
+    "workout_minutes": 49
+  },
+  {
+    "date": "2025-09-22",
+    "steps": 9028,
+    "sleep_minutes": 399,
+    "active_energy_kcal": 482,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-23",
+    "steps": 5938,
+    "sleep_minutes": 443,
+    "active_energy_kcal": 726,
+    "workout_minutes": 47
+  },
+  {
+    "date": "2025-09-24",
+    "steps": 7259,
+    "sleep_minutes": 421,
+    "active_energy_kcal": 408,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-25",
+    "steps": 8745,
+    "sleep_minutes": 428,
+    "active_energy_kcal": 458,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-26",
+    "steps": 7157,
+    "sleep_minutes": 430,
+    "active_energy_kcal": 817,
+    "workout_minutes": 48
+  },
+  {
+    "date": "2025-09-27",
+    "steps": 9448,
+    "sleep_minutes": 467,
+    "active_energy_kcal": 887,
+    "workout_minutes": 30
+  },
+  {
+    "date": "2025-09-28",
+    "steps": 9563,
+    "sleep_minutes": 495,
+    "active_energy_kcal": 1078,
+    "workout_minutes": 60
+  },
+  {
+    "date": "2025-09-29",
+    "steps": 5928,
+    "sleep_minutes": 435,
+    "active_energy_kcal": 384,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-09-30",
+    "steps": 12346,
+    "sleep_minutes": 413,
+    "active_energy_kcal": 633,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-01",
+    "steps": 15225,
+    "sleep_minutes": 457,
+    "active_energy_kcal": 1068,
+    "workout_minutes": 27
+  },
+  {
+    "date": "2025-10-02",
+    "steps": 9848,
+    "sleep_minutes": 442,
+    "active_energy_kcal": 506,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-03",
+    "steps": 7786,
+    "sleep_minutes": 389,
+    "active_energy_kcal": 949,
+    "workout_minutes": 58
+  },
+  {
+    "date": "2025-10-04",
+    "steps": 8365,
+    "sleep_minutes": 489,
+    "active_energy_kcal": 901,
+    "workout_minutes": 45
+  },
+  {
+    "date": "2025-10-05",
+    "steps": 7663,
+    "sleep_minutes": 472,
+    "active_energy_kcal": 428,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-06",
+    "steps": 8519,
+    "sleep_minutes": 414,
+    "active_energy_kcal": 661,
+    "workout_minutes": 18
+  },
+  {
+    "date": "2025-10-07",
+    "steps": 5038,
+    "sleep_minutes": 430,
+    "active_energy_kcal": 657,
+    "workout_minutes": 45
+  },
+  {
+    "date": "2025-10-08",
+    "steps": 3393,
+    "sleep_minutes": 517,
+    "active_energy_kcal": 258,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-09",
+    "steps": 7502,
+    "sleep_minutes": 414,
+    "active_energy_kcal": 475,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-10",
+    "steps": 8923,
+    "sleep_minutes": 436,
+    "active_energy_kcal": 418,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-11",
+    "steps": 11915,
+    "sleep_minutes": 470,
+    "active_energy_kcal": 650,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-12",
+    "steps": 4906,
+    "sleep_minutes": 454,
+    "active_energy_kcal": 219,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-13",
+    "steps": 7123,
+    "sleep_minutes": 404,
+    "active_energy_kcal": 731,
+    "workout_minutes": 42
+  },
+  {
+    "date": "2025-10-14",
+    "steps": 7491,
+    "sleep_minutes": 389,
+    "active_energy_kcal": 710,
+    "workout_minutes": 31
+  },
+  {
+    "date": "2025-10-15",
+    "steps": 13400,
+    "sleep_minutes": 430,
+    "active_energy_kcal": 1121,
+    "workout_minutes": 44
+  },
+  {
+    "date": "2025-10-16",
+    "steps": 7519,
+    "sleep_minutes": 424,
+    "active_energy_kcal": 956,
+    "workout_minutes": 55
+  },
+  {
+    "date": "2025-10-17",
+    "steps": 8837,
+    "sleep_minutes": 395,
+    "active_energy_kcal": 514,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-18",
+    "steps": 10121,
+    "sleep_minutes": 405,
+    "active_energy_kcal": 835,
+    "workout_minutes": 21
+  },
+  {
+    "date": "2025-10-19",
+    "steps": 3786,
+    "sleep_minutes": 449,
+    "active_energy_kcal": 243,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-20",
+    "steps": 6450,
+    "sleep_minutes": 414,
+    "active_energy_kcal": 468,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-21",
+    "steps": 5095,
+    "sleep_minutes": 437,
+    "active_energy_kcal": 222,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-22",
+    "steps": 10146,
+    "sleep_minutes": 405,
+    "active_energy_kcal": 609,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-23",
+    "steps": 10100,
+    "sleep_minutes": 414,
+    "active_energy_kcal": 510,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-24",
+    "steps": 10296,
+    "sleep_minutes": 452,
+    "active_energy_kcal": 564,
+    "workout_minutes": 0
+  },
+  {
+    "date": "2025-10-25",
+    "steps": 8911,
+    "sleep_minutes": 458,
+    "active_energy_kcal": 1366,
+    "workout_minutes": 92
+  }
+]
